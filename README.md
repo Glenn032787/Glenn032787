@@ -38,5 +38,5 @@
 </a>
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="[https://linkedin.com/in/AVS1508](https://www.linkedin.com/in/glenn-chang-a26ab3197/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="[https://www.linkedin.com/in/glenn-chang-a26ab3197/](https://www.linkedin.com/in/glenn-chang-a26ab3197/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:glennkengmanchang@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
