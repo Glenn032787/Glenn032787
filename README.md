@@ -5,11 +5,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 I’m currently a bioinformatic Master's of Science student at The University of British Columbia 
+- 🎓 I have an MSc. at The University of British Columbia studying bioinformatics 
 
-- 🧬 I’m currently working on [Allele specific expression analysis](https://github.com/bcgsc/IMPALA/)
+- 🧬 I’m currently working on single cell whole genome sequencing as a Research Programmer at BC Cancer (Steif Lab)
 
-- 🌱  I'm on track for learning more about **machine learning** and **analysis of DNA sequencing**
+- 🖥️ Previous tools I created on includes [Allele specific expression analysis](https://github.com/bcgsc/IMPALA/) 
+
+- 🌱  I'm on track for learning more about **machine learning** and **analysis of single cell sequencing**
 
 - 💬 Ask me about **Bioinformatics and data analysis**
 
